@@ -11,9 +11,7 @@
 
 ## 二、运行结果预览
 
-![image-20210604143650113](C:/Users/Dell/AppData/Roaming/Typora/typora-user-images/image-20210604143650113.png)
-
-
+![](img/image-20210604143650113.png)
 
 ## 三、版权所有
 
